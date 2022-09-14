@@ -1,0 +1,14 @@
+
+div{
+    color: white;
+}
+
+.textoAlinhamento{
+    padding-top: 250px;
+}
+.container00{
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }

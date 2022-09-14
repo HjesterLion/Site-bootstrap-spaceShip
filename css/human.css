@@ -1,0 +1,25 @@
+.container01{
+    background-image: url(../img//humanFlight/01.jpg);
+}
+.container02{
+    background-image: url(../img/humanFlight/02.jpg);
+}
+
+.container03{
+    background-image: url(../img/humanFlight/03.jpg);
+}
+
+.container04{
+    background-image: url(../img/humanFlight/04.jpg);
+}
+.container05{
+    background-image: url(../img/humanFlight/05.jpg);
+}
+
+.seta{
+    padding-top: 200px;
+    width: 150px;
+}
+.aDireita{
+    text-align: right;
+}

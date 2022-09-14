@@ -1,0 +1,38 @@
+.container01{
+    background-image: url(../img/falcon9/01.jpg);
+}
+.container02{
+    background-image: url(../img//falcon9/02.jpg);
+}
+.display-1{
+    font-weight: bold;
+}
+.contagem{
+    padding-top: 100px;
+}
+.falcon9Text{
+    font-size: 22px;
+    width: 700px;
+    padding-top: 100px;
+    
+}
+.carrossel01{
+    background-image: url(../img/falcon9/03.jpg);
+}
+.carrossel02{
+    background-image: url(../img//falcon9/04.jpg);
+}
+.carrossel03{
+    background-image: url(../img//falcon9/05.jpg);
+}
+.carrossel04{
+    background-image: url(../img//falcon9/06.jpg);
+}
+.carrossel05{
+    background-image: url(../img//falcon9/07.jpg);
+}
+.table{
+    color: white;
+    width: 300px;
+    font-size: 20px;
+}
